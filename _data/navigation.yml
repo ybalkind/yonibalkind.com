@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Hello"
-  url: /#/
+  url: http://google.com
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
