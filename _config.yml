@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Yon Balkind"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FYoniroam%2FIAVO2CfxEa?alt=media&token=61635103-4be1-429e-aa13-c0d2276575e3" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Johannesburg, SA"
   email            : ybalkind@gmail.com
