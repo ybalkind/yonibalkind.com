@@ -20,14 +20,14 @@ title                    : "Yoni's Mind"
 title_separator          : "-"
 subtitle                 : My thoughts and ideas # site tagline that appears below site title in masthead
 name                     : "Yoni Balkind"
-description              : "An amazing website."
+description              : "Sharing my notes / Thinking out loud / Learning in public / Working with the garage door open"
 url                      : "https://ybalkind.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ybalkind/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FYoniroam%2FBl8grsffac?alt=media&token=9c470f14-0a0c-4a45-abf8-babca174bfa4 # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+# breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -51,7 +51,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -70,19 +70,20 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : yonibee
+  username               : "yonibee"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FYoniroam%2Fnc5aTFPdWi?alt=media&token=f1ce5eca-5ecd-4a42-b6a6-348100d24ce5 # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+- "https://twitter.com/yonibee"
+- "https://www.linkedin.com/in/yonibalkind/"
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
@@ -95,7 +96,7 @@ analytics:
 author:
   name             : "Yon Balkind"
   avatar           : "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FYoniroam%2FeDO7uKoTVT?alt=media&token=1bee4a7f-2f7e-4e0a-ae83-3b6786532aab" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : 
   location         : "Johannesburg, SA"
   email            : ybalkind@gmail.com
   links:
@@ -107,7 +108,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url:"https://twitter.com/yonibee" # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -117,13 +118,16 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/yonibalkind/" # url: "https://instagram.com/"      
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url:"https://twitter.com/yonibee" # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -206,8 +210,8 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+permalink: /:title/
+paginate: 20 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -274,7 +278,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
