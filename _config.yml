@@ -20,14 +20,14 @@ title                    : "Yoni's Mind"
 title_separator          : "-"
 subtitle                 : "My thoughts and ideas" # site tagline that appears below site title in masthead
 name                     : "Yoni Balkind"
-description              : "Sharing my notes / Thinking out loud / Learning in public / Working with the garage door open"
+description              : "Sharing my notes - Thinking out loud - Learning in public - Working with the garage door open"
 url                      : "https://ybalkind.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ybalkind/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FYoniroam%2FBl8grsffac?alt=media&token=9c470f14-0a0c-4a45-abf8-babca174bfa4 # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FYoniroam%2FBl8grsffac?alt=media&token=9c470f14-0a0c-4a45-abf8-babca174bfa4" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : true # true, false (default)
+# breadcrumbs            : # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -75,7 +75,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FYoniroam%2Fnc5aTFPdWi?alt=media&token=f1ce5eca-5ecd-4a42-b6a6-348100d24ce5 # Open Graph/Twitter default site image
+og_image                 : "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FYoniroam%2Fnc5aTFPdWi?alt=media&token=f1ce5eca-5ecd-4a42-b6a6-348100d24ce5" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -98,7 +98,7 @@ author:
   avatar           : "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FYoniroam%2FeDO7uKoTVT?alt=media&token=1bee4a7f-2f7e-4e0a-ae83-3b6786532aab" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
   location         : "Johannesburg, SA"
-  email            : ybalkind@gmail.com
+  email            : "ybalkind@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
