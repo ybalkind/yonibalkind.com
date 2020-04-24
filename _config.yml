@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yoni's Mind"
+title                    : "Yoni's mental playground"
 title_separator          : "-"
-subtitle                 : "My thoughts and ideas" # site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yoni Balkind"
 description              : "Sharing my notes - Thinking out loud - Learning in public - Working with the garage door open"
 url                      : "https://ybalkind.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -75,7 +75,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FYoniroam%2Fnc5aTFPdWi?alt=media&token=f1ce5eca-5ecd-4a42-b6a6-348100d24ce5" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
