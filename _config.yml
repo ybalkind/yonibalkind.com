@@ -25,7 +25,7 @@ url                      : "https://ybalkind.github.io/" # the base hostname & p
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ybalkind/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FYoniroam%2FBl8grsffac?alt=media&token=9c470f14-0a0c-4a45-abf8-babca174bfa4" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
