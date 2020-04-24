@@ -82,8 +82,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-- "https://twitter.com/yonibee"
-- "https://www.linkedin.com/in/yonibalkind/"
+ - "https://twitter.com/yonibee"
+ - "https://www.linkedin.com/in/yonibalkind/"
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yon Balkind"
+  name             : "Yoni Balkind"
   avatar           : "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FYoniroam%2FeDO7uKoTVT?alt=media&token=1bee4a7f-2f7e-4e0a-ae83-3b6786532aab" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
   location         : "Johannesburg, SA"
@@ -108,7 +108,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url:"https://twitter.com/yonibee" # url: "https://twitter.com/"
+      url: "https://twitter.com/yonibee" # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -127,7 +127,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url:"https://twitter.com/yonibee" # url:
+      url: "https://twitter.com/yonibee" # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
