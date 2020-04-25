@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Hello"
-    url: http://google.com
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "All Posts"
+    url: /allposts
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
