@@ -1,5 +1,5 @@
 ---
-title: "A Unique Proposals For Fixing Education"
+title: "A unique proposals for fixing public education"
 header:
   categories:
   tags:
