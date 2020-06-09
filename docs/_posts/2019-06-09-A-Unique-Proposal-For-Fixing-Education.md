@@ -11,7 +11,7 @@ This "side" idea struck a cord with me and months later I keep coming back to it
 
 Let me set out the basics of the idea straight away, and we can then unpack it in more detail.
 
-##The Basic Idea
+## The Basic Idea
 
 The idea is for the government to invite private investors to fund the schooling of any child.
 
