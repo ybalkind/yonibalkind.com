@@ -1,10 +1,8 @@
 ---
 title: "A unique proposals for fixing public education"
-header:
-  categories:
-  tags:
   toc: true
 ---
+
 A while back I was reading an economics book called Investing In Human Capital by Miguel Palacios. The book is mostly focused on exploring ways of funding higher education, but in one chapter it went on a slight detour and presented a unique idea for financing elementary, primary and high school.
 
 This "side" idea struck a cord with me and months later I keep coming back to it. I cannot find anything like this idea anywhere outside of this book and I'm not sure why. Its seems to me to be such a compelling and exciting idea that I want to try and put it out in the world and generate some discussion around it.
