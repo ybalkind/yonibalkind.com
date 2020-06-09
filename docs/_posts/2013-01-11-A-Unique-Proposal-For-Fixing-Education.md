@@ -1,6 +1,5 @@
 ---
 title: "A Unique Proposals For Fixing Education"
-toc: true
 ---
 
 A while back I was reading an economics book called Investing In Human Capital by Miguel Palacios. The book is mostly focused on exploring ways of funding higher education, but in one chapter it went on a slight detour and presented a unique idea for financing elementary, primary and high school.
