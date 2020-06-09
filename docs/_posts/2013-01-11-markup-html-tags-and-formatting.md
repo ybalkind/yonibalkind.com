@@ -1,249 +1,34 @@
 ---
-title: "Markup: HTML Tags and Formatting"
+title: "A unique proposals for fixing public education"
 header:
-  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
-categories:
-  - Markup
-tags:
-  - content
-  - css
-  - formatting
-  - html
-  - markup
-toc: true
+  categories:
+  tags:
+  toc: true
 ---
+A while back I was reading an economics book called Investing In Human Capital by Miguel Palacios. The book is mostly focused on exploring ways of funding higher education, but in one chapter it went on a slight detour and presented a unique idea for financing elementary, primary and high school.
 
-A variety of common markup showing how the theme styles them.
+This "side" idea struck a cord with me and months later I keep coming back to it. I cannot find anything like this idea anywhere outside of this book and I'm not sure why. Its seems to me to be such a compelling and exciting idea that I want to try and put it out in the world and generate some discussion around it.
 
-## Header two
+Let me set out the basics of the idea straight away, and we can then unpack it in more detail.
 
-### Header three
+The idea is for the government to invite private investors to fund the schooling of any child.
 
-#### Header four
+In return, the government commits to repaying the investor a share of the future tax revenue which it (the government) collects from that learner down the line if and when the learner enters the working economy and pays income tax.
 
-##### Header five
+Any student that receives funding from this initiative is not out of pocket in any way and has to pay nothing back to the financier. The repayment to the financier comes out of the income tax which the student has to pay anyway if they enter the working economy.
 
-###### Header six
+The funders do not choose specific individuals to fund. Instead they fund all students in a specific school. They are essentially betting on certain schools to produce successful learners. If their bet is successful, the government wins, because the government has a new batch of taxpayers and fewer people living off of grants. As such, the government commits to sharing some of that upside with the investor in order to reward the bet.
 
-## Blockquotes
+Investors will obviously only invest in schools which they believe will produce successful learners. Government will thus fail to attract investment unless they can create good schools.
 
-Single line blockquote:
+If normal Government schools fail to attract investment, then Government can subcontract the creation and management of schools to private entities which satisfy the investors. Or government can simply allow private schools to join the scheme under qualifying criteria (such as opening in under-served areas for underprivileged learners).
 
-> Stay hungry. Stay foolish.
+In the same way that private investment supports the economy and ensures that government cannot stray too far from market friendly policies, so market forces will help drive the school system ensuring that schools are created (one way or another) that produce successful learners.
 
-Multi line blockquote with a cite reference:
+If your politics is such that you are uncomfortable with the idea of market forces affecting the school system, keep in mind that this scheme is a closed loop. Return on investment is driven simply by the success of the learners. The specific market forces in play here genuinely drive the outcomes that help learners to become economically independent and prosperous. There is no restriction or impositions on the learners. They still choose which schools to attend (but they have better choices), they have no additional obligations, they are not party to the contract, they are simply beneficiaries.
 
-> People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.
+Market forces would steers government to create the schools that investors want, and this would inadvertently give rise to the schools that society and learners need.
 
-<cite>Steve Jobs</cite> --- Apple Worldwide Developers' Conference, 1997
-{: .small}
+Government simply has to put the right control measures in place to ensure that the beneficiaries are those that most need it. And market forces steer the government to focus on underprivileged learners.
 
-## Tables
-
-| Employee         | Salary |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
-| [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
-| [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
-| [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Forms
-
-<form>
-  <fieldset>
-    <legend>Personalia:</legend>
-    Name: <input type="text" size="30"><br>
-    Email: <input type="text" size="30"><br>
-    Date of birth: <input type="text" size="10">
-  </fieldset>
-</form>
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-```html
-<a href="#" class="btn--success">Success Button</a>
-```
-
-[Default Button](#){: .btn}
-[Primary Button](#){: .btn .btn--primary}
-[Success Button](#){: .btn .btn--success}
-[Warning Button](#){: .btn .btn--warning}
-[Danger Button](#){: .btn .btn--danger}
-[Info Button](#){: .btn .btn--info}
-[Inverse Button](#){: .btn .btn--inverse}
-[Light Outline Button](#){: .btn .btn--light-outline}
-
-```markdown
-[Default Button Text](#link){: .btn}
-[Primary Button Text](#link){: .btn .btn--primary}
-[Success Button Text](#link){: .btn .btn--success}
-[Warning Button Text](#link){: .btn .btn--warning}
-[Danger Button Text](#link){: .btn .btn--danger}
-[Info Button Text](#link){: .btn .btn--info}
-[Inverse Button](#link){: .btn .btn--inverse}
-[Light Outline Button](#link){: .btn .btn--light-outline}
-```
-
-[X-Large Button](#){: .btn .btn--primary .btn--x-large}
-[Large Button](#){: .btn .btn--primary .btn--large}
-[Default Button](#){: .btn .btn--primary }
-[Small Button](#){: .btn .btn--primary .btn--small}
-
-```markdown
-[X-Large Button](#link){: .btn .btn--primary .btn--x-large}
-[Large Button](#link){: .btn .btn--primary .btn--large}
-[Default Button](#link){: .btn .btn--primary }
-[Small Button](#link){: .btn .btn--primary .btn--small}
-```
-
-## Notices
-
-**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice}` class.
-{: .notice}
-
-**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--primary}` class.
-{: .notice--primary}
-
-**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--info}` class.
-{: .notice--info}
-
-**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--warning}` class.
-{: .notice--warning}
-
-**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--success}` class.
-{: .notice--success}
-
-**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--danger}` class.
-{: .notice--danger}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://apple.com "Apple").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-	margin: 0 0 5px;
-	font-weight: bold;
-	font-size: 38px;
-	line-height: 1.2;
-	and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Albert Einstein's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
+The scheme gives government a new way to fund schooling. The amount of available funding is limited only by the amount of potential tax revenue that the students can be expected to generate.
