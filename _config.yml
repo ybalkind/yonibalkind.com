@@ -56,7 +56,7 @@ search_full_content      : # true, false (default)
 search_provider          : algolia # lunr (default), algolia, google
 algolia:
   application_id         : 9L4GCW20CO # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
+  index_name             : yoni jekyll blog # YOUR_INDEX_NAME
   search_only_api_key    : 50f0adb1862be1ae4e19a71d1e209a95 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
