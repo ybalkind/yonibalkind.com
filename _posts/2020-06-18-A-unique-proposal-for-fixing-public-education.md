@@ -23,3 +23,45 @@ As a result the government gets to keep less income tax from the learner, but pe
 In theory its a win-win all round. The investor gets a return on investment. The student gets a better education. And the government gets a more educated and productive citizen (which of course benefits society at large).
 
 The benefit of this model is twofold; Firstly it provides new sources of funding. Secondly, the particular repayment criteria is such that it helps to ensure that funds are spent optimally. 
+
+## How do GHCC's deliver education to those who most need it?
+
+The return on investment for the financier is contingent on the eventual earnings of the learner. Investors would therefore want to fund the best and brightest students with the best career prospects. 
+
+To some extent this is fine. Normal government models for tertiary funding also take into account how well a student did in school before the student is funded. But at the same time, these government models are designed with equality in mind.
+
+The danger with inviting private funding is that, unlike government, they are not serving the public good. They might therefore prioritise students from privileged backgrounds as these may be deemed more likely to succeed and thus less risky an investment. It would thus be important for Government to ensure that the rules of the scheme do not entrench patters of inequality. 
+
+Fortunately, Government are the ones who repay the debt so they control who gets funding. Government has little incentive in taking on funding for privileged learners who already have good career prospects - why give away future tax revenue when that revenue is already pretty much guaranteed? 
+
+Instead, the incentive for Government is in taking on investment for poor learners who would otherwise struggle to get a good education. If those students can be well educated and prepared for the workforce, then that is bonus tax revenue for the government, and its well worth parting with some of that tax revenue if someone is willing to take on the cost and risk of funding the student. 
+
+## Attracting finance
+
+If government only seeks funding for the students with the least prospects, would investors be interested at all? How do Investors get a return on students with poor career prospects?
+
+Firstly, Government would have to offer healthy returns to compensate for the risk on investors. But the poorest people are those with the lowest likelihood of contributing much tax. Having uneducated adults is a drain on the economy, and having more educated productive people is a huge benefit that passes onto subsequent generations. As such government can justify giving away a hefty portion of tax revenue derived from people who would otherwise had remained poor had they not been successfully educated. 
+
+Although paying a premium return can go some way towards helping to attract investors there still needs to be a way to give funders confidence that the learners will actually be successful. If Government is struggling to educate a large portion of the population. Why should we think that private investment would yield better outcomes?
+
+## Market forces can help achieve better outcomes
+
+This gets to the heart of what makes GHCC's special and interesting.
+
+Delivering a good education to millions of people is a massively onerus task for any government. Especially in a fast changing world where its hard to know what skills are needed for what jobs.
+
+The South Africa Goverment provides free higher education. But how efficient is it in ensuring that the right courses and colleges are funded? I suspect the amount of wasteage and inefficeincy is massive. 
+
+GHCC's changes the game because it passes on the complexity to the market. Its introduces a self adjusting mechanism that naturally optimises to deliver better education outcomes. Investor are only going to fund colleges that are outcome driven and where the skills being taught are in demand.  
+
+GHCC increases the likelihood of education success because it provides instant market feedback as to the expected success of a particular college or course. If government tries to get two different courses funded and investors only support one of the courses, that feedback tells government that the other course is considered wasteful. It ensures that funds flow efficiently to where outcomes are expected to be successful. 
+
+Why should investors have better knowledge than government? Because that is just how the world works. Investors who make bad predictions, go out of business, those that make good predictions succeed and have more capital to invest. The market, for all its flaws, is better than government at creating value out of complexity. 
+
+GHCCs bring a whole lot of new funding to the system, and market forces incentivise that the educational sector up its game so as to qualify for that funding. 
+
+There are other Government funding models that incorporate market feedback such Social Impact Bonds and Income Contingent Government Loans (as offered by the Australian Government). The difference is that those existing models require government to interpret that feedback and to determine how funds should be distributed. GHCC are theoretically more efficient because funds are distributed by private investors who are incentivised to achieve the best outcomes. 
+
+Market forces would gradually give rise to the colleges that society and learners need. Public schooling today is more or less the same as it was 60 years ago. It is ineffecient and ineffective, and ill suited for the information age. GHCC presents an exciting mechanism to accelerate the reform of the tertiary education system to make it more efficient and relevant for the modern world. 
+
+Another advantage of creating this market mechanism is that it provides a clear signal to learners about where and what to study. The best courses and colleges will be free.  
