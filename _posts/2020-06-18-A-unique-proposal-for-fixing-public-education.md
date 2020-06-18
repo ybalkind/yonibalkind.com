@@ -1,12 +1,12 @@
-Unequal access to education is surely one of the key challenges facing modern governments and society as a whole. Its not enough to create more public schools or to provide free university, the standards also need to be high enough to produce the kinds of outcomes that people need in order to prosper. 
+I recently stumbled on an interesting and novel approach to tackling the problem of unequal education. It came from a book called Investing In Human Capital (publish in 2004), by Economist Miguel Palacios. 
 
-I stumbled on a interesting and novel approach to addressing the education challenge in a book published in 2004 called Investing In Human Capital, by Economist Miguel Palacios. The book has contributed to the discussion and development of alternative forms of student finance in recent years. In particular its helped to develop the concept of income contingent loans and income share agreements. These types of finance models are increasingly being applied by universities, coding bootcamps, and by alternative student finance companies. 
+This book has helped to develop alternative models of student finance such as income contingent loans and income share agreements. These  models are increasingly being applied by universities, coding bootcamps, and by alternative student finance companies. 
 
-But, more importantly (for this article anyway) the book also puts forward a compelling model for Governments to fund education. This particular model covers only a few pages of the book, but its an idea I keep coming back to. Its elegant, maybe a bit radical, and it seems to have completely fallen through the cracks of history. I cannot find any discussion or reference to this particular model outside of the book (if anyone has seen this idea elsewhere please correct me on this point). I feel it deserves to see the light of day, so lets dive in. 
+But, more importantly (for this article anyway), the book also puts forward another interesting model for Governments to fund education. This particular model covers only a few pages of the book, but its an idea I keep coming back to. Its elegant, maybe a bit radical, and it seems to have completely fallen through the cracks of history. I cannot find any discussion or reference to this particular model outside of the book (if anyone has seen this idea elsewhere please correct me on this point). I feel it deserves to see the light of day, so lets dive in. 
 
 ## Government Human Capital Contracts
 
-The basic idea is for the government to invite private investors to finance the education of tertiary learners. In return, the government commits to repaying the investor a share of the future tax revenue which it (the Government) collects from that learner down the line (if and when the learner enters the working economy and pays income tax).
+The basic idea is for the Government to invite private investors to finance the education of tertiary learners. In return, the government commits to repaying the investor a share of the future tax revenue which it (the Government) collects from that learner down the line (if and when the learner enters the working economy and pays income tax).
 
 I will refer to this idea as Government Human Capital Contracts (or "GHCC").
 
