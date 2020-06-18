@@ -6,7 +6,7 @@ But, more importantly (for this article anyway) the book also puts forward a com
 
 ## Government Human Capital Contracts
 
-**The idea is for the government to invite private investors to finance the education of tertiary learners. In return, the government commits to repaying the investor a share of the future tax revenue which it (the Government) collects from that learner down the line (if and when the learner enters the working economy and pays income tax).** 
+The basic idea is for the government to invite private investors to finance the education of tertiary learners. In return, the government commits to repaying the investor a share of the future tax revenue which it (the Government) collects from that learner down the line (if and when the learner enters the working economy and pays income tax).
 
 I will refer to this idea as Government Human Capital Contracts (or "GHCC").
 
