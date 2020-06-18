@@ -10,7 +10,7 @@ The basic idea is for the Government to invite private investors to finance the 
 
 I will refer to this idea as Government Human Capital Contracts (or "GHCC").
 
-(side note: the original idea presented by Palacios looks at ways to fund normal schooling, but for reasons that will become clear later, I'm going to discuss its application to specifically to tertiary education) 
+(side note: the original idea presented by Palacios looks at ways to fund normal schooling, but for reasons that will become clear later, I'm going to discuss its application specifically to tertiary education) 
 
 Lets explore some of the details:
 
