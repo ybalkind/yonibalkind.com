@@ -1,4 +1,4 @@
-Unequal access to education is surely one of the key challenges facing modern governments and society as a whole. Its not enough to create more public schools or to provide free university, the standards also need to be of a high enough standard to produce the kinds of outcomes that people need in order to prosper. 
+Unequal access to education is surely one of the key challenges facing modern governments and society as a whole. Its not enough to create more public schools or to provide free university, the standards also need to be high enough to produce the kinds of outcomes that people need in order to prosper. 
 
 I stumbled on a interesting and novel approach to addressing the education challenge in a book published in 2004 called Investing In Human Capital, by Economist Miguel Palacios. The book has contributed to the discussion and development of alternative forms of student finance in recent years. In particular its helped to develop the concept of income contingent loans and income share agreements. These types of finance models are increasingly being applied by universities, coding bootcamps, and by alternative student finance companies. 
 
