@@ -2,7 +2,7 @@ language: ruby
 cache: bundler
 gemfile: docs/Gemfile
 script:
- jekyll build && htmlproofer ./_site
+- "./setup"
 branches:
   only:
     # Change this to gh-pages if you're deploying using the gh-pages branch
