@@ -1,4 +1,4 @@
-I recently stumbled on an interesting and novel approach to tackling the problem of unequal education. It came from a book called Investing In Human Capital (published in 2004) by Economist Miguel Palacios. 
+I recently stumbled on an interesting and novel approach to tackling the problem of unequal access to education. It came from a book called Investing In Human Capital (published in 2004) by Economist Miguel Palacios. 
 
 The book is known in the niche world of alternative student finance, for having helped to create awareness of finance models such as income contingent loans and income share agreements. These  models are increasingly being applied by universities, coding bootcamps, and by alternative student finance companies. These models were not invented by Palacios, he merely develops them. 
 
