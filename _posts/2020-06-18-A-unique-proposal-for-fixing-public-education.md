@@ -44,6 +44,8 @@ Firstly, Government would have to offer healthy returns to compensate for the ri
 
 Although paying a premium return can go some way towards helping to attract investors there still needs to be a way to give funders confidence that the learners will actually be successful. If Government is struggling to educate a large portion of the population. Why should we think that private investment would yield better outcomes?
 
+[Address the point about returns on investment for education. Its one of the best returns and data shows its under invested in due to market failiaure.. Show graph for returns in africa..]
+
 ## Market forces can help achieve better outcomes
 
 This gets to the heart of what makes GHCC's special and interesting.
@@ -66,7 +68,11 @@ Market forces would gradually give rise to the colleges that society and learner
 
 Another advantage of creating this market mechanism is that it provides a clear signal to learners about where and what to study. The best courses and colleges will be free.  
 
+
 ## Conclusion 
+
+As with any radical idea, there are unresolved issues. (nice line from Palacios)
+
 
 Despite my enthusism for GHCC, I'm cogniscent of many challenges and obstacles that such an idea would have to overcome (even if Government were sold on the idea). What percentage of tax revenue per learner is paid back to the funder and for how many years do we repay? Do the repayments get capped? Should we allow funding of traditional colleges only, or also allow funding for alternative education paths such as coding bootcamps and online courses? How do you ensure you're not giving away too max tax revenue? How do you track the students and their tax payments and ensure repayment to investors. 
 
