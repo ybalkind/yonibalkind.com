@@ -65,3 +65,25 @@ There are other Government funding models that incorporate market feedback such 
 Market forces would gradually give rise to the colleges that society and learners need. Public schooling today is more or less the same as it was 60 years ago. It is ineffecient and ineffective, and ill suited for the information age. GHCC presents an exciting mechanism to accelerate the reform of the tertiary education system to make it more efficient and relevant for the modern world. 
 
 Another advantage of creating this market mechanism is that it provides a clear signal to learners about where and what to study. The best courses and colleges will be free.  
+
+## Conclusion 
+
+Despite my enthusism for GHCC, I'm cogniscent of many challenges and obstacles that such an idea would have to overcome (even if Government were sold on the idea). What percentage of tax revenue per learner is paid back to the funder and for how many years do we repay? Do the repayments get capped? Should we allow funding of traditional colleges only, or also allow funding for alternative education paths such as coding bootcamps and online courses? How do you ensure you're not giving away too max tax revenue? How do you track the students and their tax payments and ensure repayment to investors. 
+
+It is beyond the scope of this article to cover these in detail. If this gets any attention then I will certainly look to explore the topic in much more depth. But in the interim I recommend reading the source of idea - Miguel Palacios' book Investing in Human Capital. It addresses most of the above questions and more.
+
+I've only spoken about tertiary education so far, but there is only so much you can fix at this level of the education pipeline. So much of learning outcomes depends on what happens at school and even pre-school level (nevermind factors outside of school that impact on learning outcomes). 
+
+As I mentioned earlier, Miguel Palacios put forward GHCC as a means to fund normal school education. The reason I focused on Tertiary education is that it makes it much easier to test the model and establish its effectiveness when there is only a few years between investment and job. 
+
+In theory though, the GHCC model could gradually be expanded to lower levels of school, and that is where it could really unlock much bigger benefits for society. 
+
+I mentioned at the start that Palacios originally invisioned for this model to apply to normal schooling. 
+If governments dont radically change their approach then what reason is there to think that the situation will improve. 
+
+## Acknowledgements
+Thank you to Miguel Palacios not only for originating the idea of Government Human Capital Contracts (for the record he actually used the term "State Human Capital Contracts"), but also for graciously giving of his time to discuss his ideas with me. 
+
+Thank you also to Andrew Pooley (co-founder of Umuzi) for reading my early drafts and helping stress test the idea. Hopefully I can do a follow up piece that dives into the detail and challenges that you helped me to understand. 
+
+
