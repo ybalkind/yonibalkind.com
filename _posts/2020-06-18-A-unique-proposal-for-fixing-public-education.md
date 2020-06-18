@@ -1,6 +1,6 @@
 I recently stumbled on an interesting and novel approach to tackling the problem of unequal education. It came from a book called Investing In Human Capital (published in 2004) by Economist Miguel Palacios. 
 
-In the world of alternative student finance, the book is known for having helped to create awareness of finance models such as income contingent loans and income share agreements. These  models are increasingly being applied by universities, coding bootcamps, and by alternative student finance companies. These models were not invented by Palacios, he merely develops them. 
+The book is known in the niche world of alternative student finance, for having helped to create awareness of finance models such as income contingent loans and income share agreements. These  models are increasingly being applied by universities, coding bootcamps, and by alternative student finance companies. These models were not invented by Palacios, he merely develops them. 
 
 But there is one proposed model in the book which I believe is completely novel. It is a way for government to fund education out of a learners future tax revenue. This particular model covers only a few pages of the book, but its an idea I keep coming back to. Its elegant, maybe a bit radical, and it seems to have completely fallen through the cracks of history. I cannot find any discussion or reference to this particular model outside of the book (if anyone has seen this idea elsewhere please correct me on this point). I feel it deserves to see the light of day, so lets dive in. 
 
@@ -10,7 +10,7 @@ The basic idea is for the Government to invite private investors to finance the 
 
 I will refer to this idea as Government Human Capital Contracts (or "GHCC").
 
-(side note: the original idea presented by Palacios looks at ways to fund normal schooling, but for reasons that will become clear later, I'm going to discuss its application to tertiary education) 
+(side note: the original idea presented by Palacios looks at ways to fund normal schooling, but for reasons that will become clear later, I'm going to discuss its application to specifically to tertiary education) 
 
 Lets explore some of the details:
 
