@@ -82,6 +82,7 @@ We know that investing in education is a vital building block for a more prosper
 ## Acknowledgements
 Thank you to [Miguel Palacios](http://palaciosfinance.com/) not only for originating the idea of Government Human Capital Contracts, but also for graciously giving of his time to discuss his ideas with me. And to Gilbert Pooley (co-founder of [Umuzi](https://www.umuzi.org/)) for reading my early draft and helping to stress-test the idea. 
 
+### Footnotes
 [^1]: side note: the original idea presented by Palacios looks at ways to fund normal (primary and high) schooling, but for reasons that will become clear later, I'm going to discuss its application specifically to higher (tertiary) education) 
 [^2]: For the record, Palacios actually called it "*State* Human Capital Contracts"
 [^3]: It is beyond the scope of this post to compare those models, but in short: Government Loans differ to GHCC because government still has to decide how to distribute funds. Social Impact Bonds differ in that the repayments are related to more abstract measures than taxable income. Repayment by government is thus limited to existing funds which caps the upside and limits potential investment. It also means that government has to interpret what it thinks are worthwhile measures. 
