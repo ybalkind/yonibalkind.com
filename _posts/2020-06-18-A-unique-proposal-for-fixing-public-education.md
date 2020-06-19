@@ -54,6 +54,7 @@ Although paying a premium return can go some way towards helping to attract inve
 
 ## Market forces can help achieve better outcomes
 
+
 This gets to the heart of what makes GHCC's special and interesting.
 
 Delivering a good education to millions of people is a massively onerus task for any government. Especially in a fast changing world where its hard to know what skills are needed for what jobs.
@@ -62,11 +63,9 @@ The South Africa Goverment provides free higher education. But how efficient is 
 
 GHCC's changes the game because it passes on the complexity to the market. Its introduces a self adjusting mechanism that naturally optimises to deliver better education outcomes. Investor are only going to fund colleges that are outcome driven and where the skills being taught are in demand.  
 
-GHCC increases the likelihood of education success because it provides instant market feedback as to the expected success of a particular college or course. If government tries to get two different courses funded and investors only support one of the courses, that feedback tells government that the other course is considered wasteful. It ensures that funds flow efficiently to where outcomes are expected to be successful. 
+GHCC increases the likelihood of education success because investors are obliged to make good decisions about where to put their captial. They have to choose whether to funding blue collar skills or white collar skills, short courses, or long degrees. They have to get choices right or they dont get paid. This ensures that funds flow efficiently to where outcomes are expected to be successful. 
 
-In fact, investors might accept better terms for certain courses than others. For example, an investor might demand 5% of future income for funding a computer sceince major, but 30% of future income from a journalist student. Government may be unwilling to part with so much income from a journalist, so funding can only be offered to computer sceince majors. This helps channel students to the right qualifications making the mass education system more efficient. 
-
-Why should investors have better knowledge than government? Because that is just how the world works. Investors who make bad predictions, go out of business, those that make good predictions succeed and have more capital to invest. The market, for all its flaws, is better than government at creating value out of complexity. 
+Why should investors have better knowledge than government? Experience shows that this is just how the world works. Investors who make bad predictions, go out of business, those that make good predictions succeed and have more capital to invest. The market, for all its flaws, is better than government at creating value out of complexity. 
 
 GHCCs bring a whole lot of new funding to the system, and market forces incentivise that the educational sector up its game so as to qualify for that funding. 
 
@@ -78,26 +77,17 @@ Another advantage of creating this market mechanism is that it provides a clear 
 
 ## Conclusion 
 
-As with any radical idea, there are unresolved issues. (nice line from Palacios)
-
-[maybe put graph about return on education]
-
-Despite my enthusism for GHCC, I'm cogniscent of many challenges and obstacles that such an idea would have to overcome (even if Government were sold on the idea). What percentage of tax revenue per learner is paid back to the funder and for how many years do we repay? Do the repayments get capped? Should we allow funding of traditional colleges only, or also allow funding for alternative education paths such as coding bootcamps and online courses? How do you ensure you're not giving away too max tax revenue? How do you track the students and their tax payments and ensure repayment to investors. 
+Despite my enthusism for GHCC, I'm cogniscent that it contains many unresolved issues. How do you get government buy-in? What percentage of tax revenue per learner is paid back to the funder and for how many years do we repay? Do the repayments get capped? Should we allow funding of traditional colleges only, or also allow funding for alternative education paths such as coding bootcamps and online courses? How do you ensure you're not giving away too max tax revenue? How do you track the students and their tax payments and ensure repayment to investors. 
 
 It is beyond the scope of this article to cover these in detail. If this gets any attention then I will certainly look to explore the topic in much more depth. But in the interim I recommend reading the source of idea - Miguel Palacios' book Investing in Human Capital. It addresses most of the above questions and more.
 
 I've only spoken about tertiary education so far, but there is only so much you can fix at this level of the education pipeline. So much of learning outcomes depends on what happens at school and even pre-school level (nevermind factors outside of school that impact on learning outcomes). 
 
-As I mentioned earlier, Miguel Palacios put forward GHCC as a means to fund normal school education. The reason I focused on Tertiary education is that it makes it much easier to test the model and establish its effectiveness when there is only a few years between investment and job. 
+As I mentioned earlier, Miguel Palacios put forward GHCC as a means to fund normal school education. The reason I focused on Tertiary education is that it makes it much easier to test the model and establish its effectiveness, because there is only a few years between investment and job. But in theory, the GHCC model could gradually be expanded to lower levels of school, and that is where it could really unlock much bigger benefits for society. 
 
-In theory though, the GHCC model could gradually be expanded to lower levels of school, and that is where it could really unlock much bigger benefits for society. 
-
-I mentioned at the start that Palacios originally invisioned for this model to apply to normal schooling. 
-If governments dont radically change their approach then what reason is there to think that the situation will improve. 
+We know that investing education is a vital building block for a more prosperous and equitable society. But we are contrained by available funds and by the complexity of delivering education equitably to the masses. In countries like South Africa, there is little signs of improvement in educational outcomes. Real reform need to at least be considered. Government Human Capital Contracts put forward one such vision. 
 
 ## Acknowledgements
-Thank you to Miguel Palacios not only for originating the idea of Government Human Capital Contracts (for the record he actually used the term "State Human Capital Contracts"), but also for graciously giving of his time to discuss his ideas with me. 
-
-Thank you also to Andrew Pooley (co-founder of Umuzi) for reading my early drafts and helping stress test the idea. Hopefully I can do a follow up piece that dives into the detail and challenges that you helped me to understand. 
+Thank you to Miguel Palacios not only for originating the idea of Government Human Capital Contracts (for the record he actually used the term "State Human Capital Contracts"), but also for graciously giving of his time to discuss his ideas with me. And to Andrew Pooley (co-founder of Umuzi) for reading my early draft and helping stress test the idea. 
 
 
