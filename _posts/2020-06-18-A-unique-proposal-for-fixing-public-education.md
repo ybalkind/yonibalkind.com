@@ -6,12 +6,10 @@ However, one of the ideas proposed by Palacios is a bit different, in that the s
 
 ## Government Human Capital Contracts
 
-The basic idea is for the Government to invite private investors to finance the education of tertiary learners. In return, the government commits to repaying the investor a pre-agreed share of the future tax revenue which it (the Government) ends up collecting from that learner (if and when the learner enters the working economy and pays income tax).
+The basic idea is for the Government to invite private investors to finance the education of tertiary learners. In return, the government commits to repaying the investor a pre-agreed share of the future tax revenue which it (the Government) ends up collecting from that learner (if and when the learner enters the working economy and pays income tax). [^1]
 {: .notice}
 
-I will refer to this idea as Government Human Capital Contracts (or "GHCC").
-
-(side note: the original idea presented by Palacios looks at ways to fund normal (primary and high) schooling, but for reasons that will become clear later, I'm going to discuss its application specifically to higher (tertiary) education) 
+I will refer to this idea as Government Human Capital Contracts (or "GHCC"). [^2]
 
 Let's explore some of the details:
 
@@ -65,7 +63,7 @@ GHCCs increase the likelihood of education success because investors are obliged
 
 Why should investors have better knowledge than government? Because experience shows that this is just how the world works. Investors who make bad predictions go out of business. Investors who make good predictions succeed and have more capital to invest. The market, for all its flaws, is better than government at creating value out of complexity. 
 
-There are other government funding models that incorporate market feedback such Social Impact Bonds and Income Contingent Government Loans (as offered by the Australian Government). GHCC are theoretically more efficient because funds are distributed by private investors who are incentivised to achieve the best outcomes. [^1] 
+There are other government funding models that incorporate market feedback such Social Impact Bonds and Income Contingent Government Loans (as offered by the Australian Government). GHCC are theoretically more efficient because funds are distributed by private investors who are incentivised to achieve the best outcomes. [^3] 
 
 The value of market forces is that they could help accelerate the evolution of the education system by channeling capital to the colleges that society and learners really need. Public education today is more or less the same as it was 60 years ago. It is ineffecient, ineffective, and ill-suited for the information age. GHCC presents an exciting mechanism to accelerate the reform of the tertiary education system to make it more efficient and relevant for the modern world. 
 
@@ -82,8 +80,11 @@ As I mentioned earlier, Miguel Palacios put forward GHCC as a means to fund norm
 We know that investing in education is a vital building block for a more prosperous and equitable society. But we are contrained by available funds and by the complexity of delivering education equitably to the masses. In countries like South Africa, there are little signs of improvement in educational outcomes. Real reform needs to at least be considered. Government Human Capital Contracts put forward one such vision. 
 
 ## Acknowledgements
-Thank you to [Miguel Palacios](http://palaciosfinance.com/) not only for originating the idea of Government Human Capital Contracts (for the record he actually called it "*State* Human Capital Contracts"), but also for graciously giving of his time to discuss his ideas with me. And to Gilbert Pooley (co-founder of [Umuzi](https://www.umuzi.org/)) for reading my early draft and helping to stress-test the idea. 
+Thank you to [Miguel Palacios](http://palaciosfinance.com/) not only for originating the idea of Government Human Capital Contracts, but also for graciously giving of his time to discuss his ideas with me. And to Gilbert Pooley (co-founder of [Umuzi](https://www.umuzi.org/)) for reading my early draft and helping to stress-test the idea. 
 
-[^1]: It is beyond the scope of this post to compare those models, but in short: Government Loans differ to GHCC because government still has to decide how to distribute funds. Social Impact Bonds differ in that the repayments are related to more abstract measures than taxable income. Repayment by government is thus limited to existing funds which caps the upside and limits potential investment. It also means that government has to interpret what it thinks are worthwhile measures. 
+[^1]: side note: the original idea presented by Palacios looks at ways to fund normal (primary and high) schooling, but for reasons that will become clear later, I'm going to discuss its application specifically to higher (tertiary) education) 
+[^2]: For the record, Palacios actually called it "*State* Human Capital Contracts"
+[^3]: It is beyond the scope of this post to compare those models, but in short: Government Loans differ to GHCC because government still has to decide how to distribute funds. Social Impact Bonds differ in that the repayments are related to more abstract measures than taxable income. Repayment by government is thus limited to existing funds which caps the upside and limits potential investment. It also means that government has to interpret what it thinks are worthwhile measures. 
+
 
 
