@@ -1,4 +1,4 @@
-I recently stumbled on an interesting and novel proposal for how governments can better fund mass education, while making access more equitable, and promoting better education outcomes. It came from a book called Investing In Human Capital (published in 2004) by Economist Miguel Palacios. 
+I recently stumbled on an interesting and novel proposal for how governments can better fund mass education, while making access more equitable, and promoting better education outcomes. It came from a book called [Investing In Human Capital](https://www.amazon.com/Investing-Human-Capital-Markets-Approach/dp/0521828406) (published in 2004) by economist Miguel Palacios. 
 
 The book is notable for helping to develop alternative models of student finance such as income contingent loans and income share agreements. These  models are increasingly being applied by universities, coding bootcamps, and by alternative student finance companies. A common theme of these models is that a student recieves funding, and the repayment due by the student is contingent on how much the student earns after graduating. 
 
@@ -88,6 +88,6 @@ As I mentioned earlier, Miguel Palacios put forward GHCC as a means to fund norm
 We know that investing education is a vital building block for a more prosperous and equitable society. But we are contrained by available funds and by the complexity of delivering education equitably to the masses. In countries like South Africa, there is little signs of improvement in educational outcomes. Real reform need to at least be considered. Government Human Capital Contracts put forward one such vision. 
 
 ## Acknowledgements
-Thank you to Miguel Palacios not only for originating the idea of Government Human Capital Contracts (for the record he actually used the term "State Human Capital Contracts"), but also for graciously giving of his time to discuss his ideas with me. And to Andrew Pooley (co-founder of Umuzi) for reading my early draft and helping stress test the idea. 
+Thank you to [Miguel Palacios](http://palaciosfinance.com/) not only for originating the idea of Government Human Capital Contracts (for the record he actually used the term "State Human Capital Contracts"), but also for graciously giving of his time to discuss his ideas with me. And to Andrew Pooley (co-founder of [Umuzi](https://www.umuzi.org/)) for reading my early draft and helping stress test the idea. 
 
 
