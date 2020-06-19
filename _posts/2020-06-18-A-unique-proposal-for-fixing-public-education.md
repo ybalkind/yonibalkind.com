@@ -7,7 +7,7 @@ However, one of the ideas proposed by Palacios is a bit different, in that the s
 ## Government Human Capital Contracts
 
 The basic idea:
-:   Government invites private investors to finance the education of tertiary learners. In return, the government commits to repaying the investor a pre-agreed share of the future tax revenue which it (government) ends up collecting from that learner (if and when the learner enters the working economy and pays income tax). [^1]
+:   Government invites private investors to finance the education of tertiary learners. In exchange, government commits to repaying the investor a pre-agreed share of the future tax revenue which it (government) ends up collecting from that learner (if and when the learner enters the working economy and pays income tax). [^1]
 
 I will refer to this idea as Government Human Capital Contracts (or "GHCC"). [^2]
 
