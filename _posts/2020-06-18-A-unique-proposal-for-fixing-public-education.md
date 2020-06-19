@@ -2,15 +2,15 @@ I recently stumbled on an interesting and novel proposal for how governments can
 
 The book is notable for helping to develop alternative models of student finance such as income contingent loans and income share agreements. These  models are increasingly being applied by universities, coding bootcamps, and by alternative student finance companies. A common theme of these models is that a student recieves funding, and the repayment due by the student is contingent on how much the student earns after graduating. 
 
-One of the ideas proposed by Palacios is a bit different though, in that the student does not have to pay back anything at all. Instead, the financier is paid back by government, out of the tax revenue that student ends up paying. This particular model covers only a few pages of the book, but its an idea I keep coming back to. It is elegant, maybe a bit radical, and it seems to have completely fallen through the cracks of history. I cannot find any discussion or reference to this particular model outside of the book (if anyone has seen this idea elsewhere please correct me on this point). I feel it deserves to see the light of day, hence this post. 
+One of the ideas proposed by Palacios is a bit different though, in that the student does not have to pay back anything at all. Instead, the financier is paid back by government directly from the tax revenue collected from that student down the line. This particular model covers only a few pages of the book, but its an idea I keep coming back to. It is elegant, maybe a bit radical, and it seems to have completely fallen through the cracks of history. I cannot find any discussion or reference to this particular model outside of the book (if anyone has seen this idea elsewhere please correct me on this point). I feel it deserves to see the light of day, hence this post. 
 
 ## Government Human Capital Contracts
 
-The basic idea is for the Government to invite private investors to finance the education of tertiary learners. In return, the government commits to repaying the investor a pre-agreed share of the future tax revenue which it (the Government) collects from that learner down the line (if and when the learner enters the working economy and pays income tax).
+The basic idea is for the Government to invite private investors to finance the education of tertiary learners. In return, the government commits to repaying the investor a pre-agreed share of the future tax revenue which it (the Government) ends up collecting from that learner (if and when the learner enters the working economy and pays income tax).
 
 I will refer to this idea as Government Human Capital Contracts (or "GHCC").
 
-(side note: the original idea presented by Palacios looks at ways to fund normal schooling, but for reasons that will become clear later, I'm going to discuss its application specifically to tertiary education) 
+(side note: the original idea presented by Palacios looks at ways to fund normal (primary and high) schooling, but for reasons that will become clear later, I'm going to discuss its application specifically to higher (tertiary) education) 
 
 Lets explore some of the details:
 
@@ -18,11 +18,11 @@ Any student that receives funding from this initiative is not out of pocket in a
 
 The funders do not choose specific individuals to fund. Instead they fund all students in a specific course or college (I use the word "college" to refer to any type of institution that provides tertiary education). Funders are essentially betting on certain courses to produce successful learners. If their bet is successful, the government wins, because the government has a new batch of taxpayers. As such, the government commits to sharing some of that upside with the investor in order to reward the bet.
 
-The amount owed by government is a specified percentage of the tax revenue or taxable income of the student. The more the students ends up earning the higher the repayments (however the total repayments can be capped at a certain amount). 
+The amount owed by government is a specified percentage of the tax revenue or taxable income of the student. For countries with well functioning tax systems this gives the funder confidence and certainty that the earnings of the student will be tracked and repaid. The more the students ends up earning the higher the repayments (however the total repayments can be capped at a certain amount). 
 
 As a result the government gets to keep less income tax from the learner, but perhaps, had the learner not benefited from the funding, he or she would be paying little or no income tax anyway.
 
-In theory its a win-win all round. The investor gets a return on investment. The student gets a better education. And the government gets a more educated and productive citizen (which of course benefits society at large).
+In theory its a win-win all round. The investor gets a return on investment. The student gets a better education. And the government gets a more educated and productive citizen (which of course also benefits society at large).
 
 The benefit of this model is twofold; Firstly it provides new sources of funding. Secondly, the particular repayment criteria is such that it helps to ensure that funds are spent optimally. 
 
@@ -44,11 +44,13 @@ If government only seeks funding for the students with the least prospects, woul
 
 Firstly, Government would have to offer healthy returns to compensate for the risk on investors. But the poorest people are those with the lowest likelihood of contributing much tax. Having uneducated adults is a drain on the economy, and having more educated productive people is a huge benefit that passes onto subsequent generations. As such government can justify giving away a hefty portion of tax revenue derived from people who would otherwise had remained poor had they not been successfully educated. 
 
-There is [Address the point about returns on investment for education. Its one of the best returns and data shows its under invested in due to market failiaure.. Show graph for returns in africa..]
+As Palacios says:
+> Education has great benefits for the student as well as for society. The measured returns to investments in education reflect
+under-investment in this activity, resulting in costs for individuals and for society. [This] under-investment in education is the result of a market failure. 
+
+But by making repayments contingent on income, this market failure is addressed. In the same way that equity finance powers business, so equity-type finance can power education. 
 
 Although paying a premium return can go some way towards helping to attract investors there still needs to be a way to give funders confidence that the learners will actually be successful. If Government is struggling to educate a large portion of the population. Why should we think that private investment would yield better outcomes?
-
-
 
 ## Market forces can help achieve better outcomes
 
@@ -74,14 +76,11 @@ Market forces would gradually give rise to the colleges that society and learner
 
 Another advantage of creating this market mechanism is that it provides a clear signal to learners about where and what to study. The best courses and colleges will be free.  
 
-
 ## Conclusion 
 
 As with any radical idea, there are unresolved issues. (nice line from Palacios)
 
-Education has great benefits for the student as well as for society. The measured returns to investments in education reflect
-under-investment in this activity, resulting in costs for individuals and for society. That under-investment in education is the result
-of a market failure. Making repayments income contingent essentially allows an investment in the student. In the same way that equity finance powers business, so equity-type finance can power education. The GHCC model is one such means to address this. 
+[maybe put graph about return on education]
 
 Despite my enthusism for GHCC, I'm cogniscent of many challenges and obstacles that such an idea would have to overcome (even if Government were sold on the idea). What percentage of tax revenue per learner is paid back to the funder and for how many years do we repay? Do the repayments get capped? Should we allow funding of traditional colleges only, or also allow funding for alternative education paths such as coding bootcamps and online courses? How do you ensure you're not giving away too max tax revenue? How do you track the students and their tax payments and ensure repayment to investors. 
 
