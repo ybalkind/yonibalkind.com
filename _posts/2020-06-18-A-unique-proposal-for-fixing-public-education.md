@@ -84,7 +84,7 @@ Thank you to [Miguel Palacios](http://palaciosfinance.com/) not only for origina
 
 ### Footnotes
 [^1]: The original idea presented by Palacios looks at ways to fund normal (primary and high) schooling, but for reasons that will become clear later, I'm going to discuss its application specifically to higher (tertiary) education) 
-[^2]: For the record, Palacios actually called it "*State* Human Capital Contracts"
+[^2]: For the record, Palacios actually called it "**State** Human Capital Contracts"
 [^3]: It is beyond the scope of this post to compare those models, but in short: Government Loans differ to GHCC because government, not the market, decides who to funds so it lacks the market mechanisms. Social Impact Bonds differ to GHCC in that the repayments are related to more abstract measures than taxable income. For example repayment may be awared based on how many people find employment by X date. Since repayment is not tied into actual tax revenue collected, government needs to be careful not to aware more Social Impact Bonds than what it can afford to pay. This limits potential investment. It also means that government has to interpret what it thinks are worthwhile metrics which allows opens the door for sub-optimal outcomes to be achieved if the metrics aren't well thought out. GHCCs are thus arguablly more scalable and efficient.  
 
 
