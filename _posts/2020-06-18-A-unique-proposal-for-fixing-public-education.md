@@ -1,8 +1,8 @@
-I recently stumbled on an interesting and novel proposal for how governments can better fund mass education, while making access more equitable, and promoting better education outcomes. It came from a book called [Investing In Human Capital](https://www.amazon.com/Investing-Human-Capital-Markets-Approach/dp/0521828406) (published in 2004) by economist Miguel Palacios. 
+I recently stumbled on an interesting and novel proposal for how governments can better fund mass education, while making access more equitable, and promoting better education outcomes. 
 
-The book is notable for helping to develop alternative models of student finance such as income contingent loans and income share agreements. These  models are increasingly being applied by universities, coding bootcamps, and by alternative student finance companies. A common theme of these models is that the amount paid back by the student is dependent on how much the student earns after graduating. 
+The ideas comes from a book called [Investing In Human Capital](https://www.amazon.com/Investing-Human-Capital-Markets-Approach/dp/0521828406) (published in 2004) by economist Miguel Palacios. The book is notable for helping to develop alternative models of student finance, such as income contingent loans and income share agreements. These  models are now increasingly being applied by universities, coding bootcamps, and by alternative student finance companies. A common theme of these models is that the amount paid back by the student is dependent on how much the student earns after graduating. 
 
-One of the ideas proposed by Palacios is a bit different though, in that the student does not have to pay back anything at all. Instead, the financier is paid back by government directly from the tax revenue collected from that student down the line. This particular model covers only a few pages of the book, but its an idea I keep coming back to. It is elegant, maybe a bit radical, and it seems to have completely fallen through the cracks of history. I cannot find any discussion or reference to this particular model outside of the book (if anyone has seen this idea elsewhere please correct me on this point). I feel it deserves to see the light of day, hence this post. 
+However, one of the ideas proposed by Palacios is a bit different, in that the student does not have to pay back anything at all. Instead, the financier is paid back by government directly from the tax revenue collected from that student down the line. This particular model covers only a few pages of the book, but it's an idea I keep coming back to. It is elegant, maybe a bit radical, and it seems to have completely fallen through the cracks of history. I cannot find any discussion or reference to this particular model outside of the book (if anyone has seen this idea elsewhere please correct me on this point). I feel it deserves to see the light of day, hence this post. 
 
 ## Government Human Capital Contracts
 
@@ -12,7 +12,7 @@ I will refer to this idea as Government Human Capital Contracts (or "GHCC").
 
 (side note: the original idea presented by Palacios looks at ways to fund normal (primary and high) schooling, but for reasons that will become clear later, I'm going to discuss its application specifically to higher (tertiary) education) 
 
-Lets explore some of the details:
+Let's explore some of the details:
 
 Any student that receives funding from this initiative is not out-of-pocket in any way and has to pay nothing back to the financier. The repayment to the financier comes out of the income tax, which the student has to pay anyway if they enter the working economy.  
 
@@ -20,7 +20,7 @@ The funders do not choose specific individuals to fund. Instead they fund all st
 
 As with all of the finance models discussed by Palacios, the repayment is related to income earned. The amount owed by government is a specified percentage of the tax revenue or taxable income of the student. If the country has a well functioning tax systems then the investor can be confident that the earnings of the student will be tracked and repaid. The more the students ends up earning the higher the repayments (however the total repayments can be capped at a certain amount). 
 
-As a result, the government gets to keep less income tax from the learner. But, perhaps, had the learner not benefited from the funding, he or she would be paying little or no income tax anyway.
+As a result, the government gets to keep less income tax from the learner. But, perhaps, had the learner not benefited from the funding, he or she would be paying little or no income tax at all.
 
 In theory its a win-win all round. The investor gets a return on investment. The student gets a better education. And the government gets a more educated and productive citizen (which of course also benefits society at large).
 
@@ -40,7 +40,7 @@ Instead, the incentive for Government is in taking on investment for poor learne
 
 If government only seeks funding for the students with the least prospects, would investors be interested at all? How do Investors get a return on students with poor career prospects?
 
-Firstly, government may have to offer price the risk into the deal and offer premium returns to investors. This is however does not diminish the attractiveness of the deal for government. Having uneducated adults is a drain on the economy, and having more educated productive people is a huge benefit that passes onto subsequent generations. As such government can justify giving away a hefty portion of tax revenue derived from people who would otherwise had remained poor had they not been successfully educated. 
+Firstly, government may have to price the risk into the deal and offer premium returns to investors. However, this does not diminish the attractiveness of the deal for government. Having uneducated adults is a drain on the economy, and having more educated productive people is a huge benefit that passes onto subsequent generations. As such government can justify giving away a hefty portion of tax revenue derived from people who would otherwise had remained poor had they not been successfully educated. 
 
 As Palacios says:
 > Education has great benefits for the student as well as for society. The measured returns to investments in education reflect
@@ -48,41 +48,41 @@ under-investment in this activity, resulting in costs for individuals and for so
 
 In other words, there is a untapped value in funding education. By making repayments contingent on income, this market failure is addressed because it allows investors to be fairly compensated for their risk by sharing in the upside. In the same way that equity finance powers business, so equity-type finance can power education. 
 
-Although paying a premium return can go some way towards helping to attract investors there still needs to be a way to give funders confidence that the learners will actually be successful. If Government is struggling to educate a large portion of the population. Why should we think that private investment would yield better outcomes?
+Although paying a premium return can go some way towards helping to attract investors, there still needs to be a way to give funders confidence that the learners will actually succeed. If Government is struggling to educate a large portion of the population, why should we think that private investment would yield better outcomes?
 
 ## Market forces can help achieve better outcomes
 
 This gets to the heart of what makes GHCC's special and interesting.
 
-Delivering a good education to millions of people is a massively onerus task for any government. Especially in a fast changing world where its hard to know what skills are needed for what jobs.
+Delivering a good education to millions of people is a massively onerus task for any government. Especially in a fast changing world where it is hard to know what skills are needed for what jobs.
 
-The South Africa goverment has recently committed to providing universal free higher education. But how efficient will it be in ensuring that the right courses and colleges are funded? One suspects that the amount of wasteage and inefficeincy will be massive. I dont think many people in South Africa believe that this measure will help deal with educational inequality. 
+The South Africa goverment has recently committed to providing universal free higher education. But how efficient will it be in ensuring that the right courses and colleges are funded? One suspects that the amount of wasteage and inefficiency will be massive. I do not think many people in South Africa believe that this measure will help deal with educational inequality. 
 
-I wonder if GHCC could change the game because it passes on the complexity to the market. It introduces a self-adjusting mechanism that naturally optimises to deliver better education outcomes. Investor are only going to fund colleges that are outcome driven and where the skills being taught are in demand.  
+I wonder if GHCC could change the game because it passes on the complexity to the market. It introduces a self-adjusting mechanism that naturally optimises to deliver better education outcomes. Investors are only going to fund colleges that are outcome driven and where the skills being taught are in-demand.  
 
-GHCC increases the likelihood of education success because investors are obliged to make good decisions about where to put their captial. They have to choose whether to fund blue-collar skills or white-collar skills, short-courses, or long degrees. They have to get choices right or they dont get paid. This ensures that funds flow efficiently to where outcomes are expected to be successful. 
+GHCCs increase the likelihood of education success because investors are obliged to make good decisions about where to put their capital. They have to choose whether to fund blue-collar skills or white-collar skills, short-courses, or long degrees. They have to get choices right or they dont get paid. This ensures that funds flow efficiently to where outcomes are expected to be successful. 
 
 Why should investors have better knowledge than government? Because experience shows that this is just how the world works. Investors who make bad predictions go out of business. Investors who make good predictions succeed and have more capital to invest. The market, for all its flaws, is better than government at creating value out of complexity. 
 
 There are other government funding models that incorporate market feedback such Social Impact Bonds and Income Contingent Government Loans (as offered by the Australian Government). GHCC are theoretically more efficient because funds are distributed by private investors who are incentivised to achieve the best outcomes. [^1] 
 
-The value of market forces is they could help accelerate the evolution of the education system by channeling capital to the colleges that society and learners really need. Public education today is more or less the same as it was 60 years ago. It is ineffecient and ineffective, and ill suited for the information age. GHCC presents an exciting mechanism to accelerate the reform of the tertiary education system to make it more efficient and relevant for the modern world. 
+The value of market forces is that they could help accelerate the evolution of the education system by channeling capital to the colleges that society and learners really need. Public education today is more or less the same as it was 60 years ago. It is ineffecient, ineffective, and ill-suited for the information age. GHCC presents an exciting mechanism to accelerate the reform of the tertiary education system to make it more efficient and relevant for the modern world. 
 
 ## Conclusion 
 
-Despite my enthusism for GHCC, I'm cogniscent that it contains open questions. How do you get government buy-in? What percentage of tax revenue per learner is paid back to the funder and for how many years do we repay? What is repayment cap? Should we allow funding of traditional colleges only, or also allow funding for alternative education paths such as coding bootcamps and online courses? How do you ensure you're not giving away too max tax revenue? How do you track the students and their tax payments and ensure repayment to investors. 
+Despite my enthusism for GHCC, I'm cogniscent that it contains open questions. How do you get government buy-in? What percentage of tax revenue per learner is paid back to the funder and for how many years do we repay? What is the repayment cap? Should we allow funding of traditional colleges only, or also allow funding for alternative education paths such as coding bootcamps and online courses? How do you ensure you're not giving away too much tax revenue? How do you track the students and their tax payments and ensure repayment to investors? 
 
-It is beyond the scope of this article to cover these in detail. If this gets any attention then I will certainly look to explore the topic in much more depth. But in the interim I recommend reading the source of idea - Miguel Palacios' book [Investing In Human Capital](https://www.amazon.com/Investing-Human-Capital-Markets-Approach/dp/0521828406). It addresses most of the above questions and more.
+It is beyond the scope of this article to cover these in detail. If this gets any attention then I will certainly look to explore the topic in much more depth. But in the interim I recommend reading the source of the idea - [Investing In Human Capital](https://www.amazon.com/Investing-Human-Capital-Markets-Approach/dp/0521828406) by Miguel Palacios. It addresses most of the above questions and more.
 
 I've only spoken about tertiary education so far, but there is only so much you can fix at this level of the education pipeline. So much of learning outcomes depends on what happens at school and even pre-school level (nevermind factors outside of school that impact on learning outcomes). 
 
-As I mentioned earlier, Miguel Palacios put forward GHCC as a means to fund normal school education. The reason I focused on higher education is that it makes it much easier to test the model and establish its effectiveness, because there is only a few years between investment and job. But in theory, the GHCC model could gradually be expanded to lower levels of school, and that is where it could really unlock much bigger benefits for society. 
+As I mentioned earlier, Miguel Palacios put forward GHCC as a means to fund normal school education. The reason I focused on higher education is that it makes it much easier to test the model and establish its effectiveness, because there are only a few years between investment and job. But in theory, the GHCC model could gradually be expanded to lower levels of school, and that is where it could really unlock much bigger benefits for society. 
 
-We know that investing education is a vital building block for a more prosperous and equitable society. But we are contrained by available funds and by the complexity of delivering education equitably to the masses. In countries like South Africa, there is little signs of improvement in educational outcomes. Real reform needs to at least be considered. Government Human Capital Contracts put forward one such vision. 
+We know that investing in education is a vital building block for a more prosperous and equitable society. But we are contrained by available funds and by the complexity of delivering education equitably to the masses. In countries like South Africa, there are little signs of improvement in educational outcomes. Real reform needs to at least be considered. Government Human Capital Contracts put forward one such vision. 
 
 ## Acknowledgements
-Thank you to [Miguel Palacios](http://palaciosfinance.com/) not only for originating the idea of Government Human Capital Contracts (for the record he actually used the term "State Human Capital Contracts"), but also for graciously giving of his time to discuss his ideas with me. And to Andrew Pooley (co-founder of [Umuzi](https://www.umuzi.org/)) for reading my early draft and helping stress test the idea. 
+Thank you to [Miguel Palacios](http://palaciosfinance.com/) not only for originating the idea of Government Human Capital Contracts (for the record he actually called it "*State* Human Capital Contracts"), but also for graciously giving of his time to discuss his ideas with me. And to Gilbert Pooley (co-founder of [Umuzi](https://www.umuzi.org/)) for reading my early draft and helping to stress-test the idea. 
 
-[^1]: Its beyond the scope of this post to compare those models, but in short: Government Loans differ to GHCC because government still has to decide how to distrute funds. Social Impact Bonds differ in that the repayments are related to more abstract measures than taxable income. Repayment by government is thus limited to existing funds which caps the upside and limits potential investment. It also means that government has to interpret what it thinks are worthwhile measures. 
+[^1]: It is beyond the scope of this post to compare those models, but in short: Government Loans differ to GHCC because government still has to decide how to distribute funds. Social Impact Bonds differ in that the repayments are related to more abstract measures than taxable income. Repayment by government is thus limited to existing funds which caps the upside and limits potential investment. It also means that government has to interpret what it thinks are worthwhile measures. 
 
 
