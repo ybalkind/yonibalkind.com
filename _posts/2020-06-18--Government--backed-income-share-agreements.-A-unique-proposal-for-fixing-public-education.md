@@ -4,12 +4,12 @@ The idea comes from a book called [Investing In Human Capital](https://www.amazo
 
 However, one of the ideas proposed by Palacios is a bit different, in that the student does not have to pay back anything at all. Instead, the financier is paid back by government directly from the tax revenue collected from that student down the line. This particular model covers only a few pages of the book, but it's an idea I keep coming back to. It is elegant, maybe a bit radical, and it seems to have completely fallen through the cracks of history. I cannot find any discussion or reference to this model outside of the book (if anyone has seen this idea elsewhere please correct me on this point). I feel it deserves to see the light of day, hence this post. 
 
-## Government Human Capital Contracts
+## Government-backed Income Share Agreements
 
 The basic idea:
 :   Government invites private investors to finance the education of tertiary learners. In exchange, government commits to repaying the investor a pre-agreed share of the future tax revenue which it (government) ends up collecting from that learner (if and when the learner enters the working economy and pays income tax). [^1]
 
-I will refer to this idea as Government Human Capital Contracts (or "GHCC"). [^2]
+Every student funded gives rise to a Government-backed Income Share Agreement (or "GISA") [^2] between the financier and government. 
 
 Let's explore some of the details:
 
@@ -25,11 +25,11 @@ In theory it is a win-win all round. The investor gets a return on investment. T
 
 The benefit of this model is twofold; Firstly, it provides new sources of funding. Secondly, the particular repayment criteria is such that it helps to ensure that funds are spent optimally. 
 
-## How do GHCC's deliver education to those who most need it?
+## How do GISA's deliver education to those who most need it?
 
 The return on investment for the financier is contingent on the eventual earnings of the learner. Investors would therefore want to fund the best and brightest students with the best career prospects. 
 
-To some extent this is fine. Normal government models for tertiary funding also take into account how well a student did in school before the student is funded. But these government models have various mechanisms to ensure a measure of equality. Such mechanisms would not to be enforced in a GHCC system as private investors might otherwise prioritise students from privileged backgrounds who are deemed more likely to succeed and thus less risky an investment. 
+To some extent this is fine. Normal government models for tertiary funding also take into account how well a student did in school before the student is funded. But these government models have various mechanisms to ensure a measure of equality. Such mechanisms would not to be enforced in a GISA system as private investors might otherwise prioritise students from privileged backgrounds who are deemed more likely to succeed and thus less risky an investment. 
 
 Fortunately, government has little incentive in taking on funding for privileged learners who already have good career prospects - why give away future tax revenue when that revenue is already pretty much guaranteed? 
 
@@ -51,41 +51,41 @@ Although paying a premium return can go some way towards helping to attract inve
 
 ## Market forces can help achieve better outcomes
 
-This gets to the heart of what makes GHCC's special and interesting.
+This gets to the heart of what makes GISA's special and interesting.
 
 Delivering a good education to millions of people is a massively onerous task for any government. Especially in a fast-changing world where it is hard to know what skills are needed for what jobs.
 
 The South Africa government has recently committed to providing universal free higher education. But how efficient will it be in ensuring that the right courses and colleges are funded? One suspects that the amount of wastage and inefficiency will be massive. I do not think many people in South Africa believe that this measure will help deal with educational inequality. 
 
-I wonder if GHCC could change the game because it passes on the complexity to the market. It introduces a self-adjusting mechanism that naturally optimises to deliver better education outcomes. Investors are only going to fund colleges that are outcome driven and where the skills being taught are in-demand.  
+I wonder if GISA could change the game because it passes on the complexity to the market. It introduces a self-adjusting mechanism that naturally optimises to deliver better education outcomes. Investors are only going to fund colleges that are outcome driven and where the skills being taught are in-demand.  
 
-GHCCs increase the likelihood of education success because investors are obliged to make good decisions about where to put their capital. They must choose whether to fund blue-collar skills or white-collar skills, short-courses, or long degrees. They have to get these choices right or they do not get paid. This ensures that funds flow efficiently to where outcomes are expected to be successful. 
+GISAs increase the likelihood of education success because investors are obliged to make good decisions about where to put their capital. They must choose whether to fund blue-collar skills or white-collar skills, short-courses, or long degrees. They have to get these choices right or they do not get paid. This ensures that funds flow efficiently to where outcomes are expected to be successful. 
 
 Why should investors have better knowledge than government? Because experience shows that this is just how the world works. Investors who make bad predictions go out of business. Investors who make good predictions succeed and have more capital to invest. The market, for all its flaws, is better than government at creating value out of complexity. 
 
-There are other government funding models that incorporate market feedback such Social Impact Bonds and Income Contingent Government Loans (as offered by the Australian Government). GHCC are theoretically more efficient because funds are distributed by private investors who are incentivised to achieve the best outcomes. [^3] 
+There are other government funding models that incorporate market feedback such Social Impact Bonds and Income Contingent Government Loans (as offered by the Australian Government). GISA are theoretically more efficient because funds are distributed by private investors who are incentivised to achieve the best outcomes. [^3] 
 
-The value of market forces is that they could help accelerate the evolution of the education system by channelling capital to the colleges that society and learners really need. Public education today is more or less the same as it was 60 years ago. It is inefficient, ineffective, and ill-suited for the information age. GHCC presents an exciting mechanism to accelerate the reform of the tertiary education system to make it more efficient and relevant for the modern world. 
+The value of market forces is that they could help accelerate the evolution of the education system by channelling capital to the colleges that society and learners really need. Public education today is more or less the same as it was 60 years ago. It is inefficient, ineffective, and ill-suited for the information age. GISAs presents an exciting mechanism to accelerate the reform of the tertiary education system to make it more efficient and relevant for the modern world. 
 
 ## Conclusion 
 
-Despite my enthusiasm for GHCCs, I'm aware that the idea contains many open questions. How do you get government buy-in? What percentage of tax revenue per learner is paid back to the funder and for how many years do we repay? What is the repayment cap? Should we allow funding of traditional colleges only, or also allow funding for alternative education paths such as coding bootcamps and online courses? How do you ensure you're not giving away too much tax revenue? How do you track the students and their tax payments and ensure repayment to investors? 
+Despite my enthusiasm for GISAs, I'm aware that the idea contains many open questions. How do you get government buy-in? What percentage of tax revenue per learner is paid back to the funder and for how many years do we repay? What is the repayment cap? Should we allow funding of traditional colleges only, or also allow funding for alternative education paths such as coding bootcamps and online courses? How do you ensure you're not giving away too much tax revenue? How do you track the students and their tax payments and ensure repayment to investors? 
 
 It is beyond the scope of this article to cover these in detail. If this gets any attention then I will certainly look to explore the topic in much more depth. But in the interim I recommend reading the source of the idea - [Investing In Human Capital](https://www.amazon.com/Investing-Human-Capital-Markets-Approach/dp/0521828406) by Miguel Palacios. It addresses most of the above questions and more.
 
 I've only spoken about tertiary education so far, but there is only so much you can fix at this level of the education pipeline. So much of learning outcomes depends on what happens at school and even pre-school level (never mind factors outside of school that impact on learning outcomes). 
 
-As I mentioned earlier, Miguel Palacios put forward GHCC as a means to fund normal school education. The reason I focused on higher education is that it makes it much easier to test the model and establish its effectiveness, because there are only a few years between investment and job. But in theory, the GHCC model could gradually be expanded to lower levels of school, and that is where it could really unlock much bigger benefits for society. 
+As I mentioned earlier, Miguel Palacios put forward GISAs as a means to fund normal school education. The reason I focused on higher education is that it makes it much easier to test the model and establish its effectiveness, because there are only a few years between investment and job. But in theory, the GISA model could gradually be expanded to lower levels of school, and that is where it could really unlock much bigger benefits for society. 
 
-We know that investing in education is a vital building block for a more prosperous and equitable society. But we are constrained by available funds and by the complexity of delivering education equitably to the masses. In countries like South Africa, there are little signs of improvement in educational outcomes. Real reform needs to at least be considered. Government Human Capital Contracts put forward one such vision. 
+We know that investing in education is a vital building block for a more prosperous and equitable society. But we are constrained by available funds and by the complexity of delivering education equitably to the masses. In countries like South Africa, there are little signs of improvement in educational outcomes. Real reform needs to at least be considered. Government-backed Income Share Agreement put forward one such vision. 
 
 ## Acknowledgements
 Thank you to [Miguel Palacios](http://palaciosfinance.com/) not only for originating the idea of Government Human Capital Contracts, but also for graciously giving of his time to discuss his ideas with me. And to Gilbert Pooley (co-founder of [Umuzi](https://www.umuzi.org/)) for reading my early draft and helping to stress-test the idea. 
 
 ### Footnotes
 [^1]: The original idea presented by Palacios looks at ways to fund normal (primary and high) schooling, but for reasons that will become clear later, I'm going to discuss its application specifically to higher (tertiary) education) 
-[^2]: For the record, Palacios actually called it "**State** Human Capital Contracts"
-[^3]: It is beyond the scope of this post to compare those models, but in short: Government Loans differ to GHCC because government, not the market, decides who to funds so it lacks the market mechanisms. Social Impact Bonds differ to GHCC in that the repayments are related to more abstract measures than taxable income. For example, repayment may be awarded based on how many people find employment by X date. Since repayment is not tied into actual tax revenue collected, government needs to be careful not to aware more Social Impact Bonds than what it can afford to pay. This limits potential investment. It also means that government has to interpret what it thinks are worthwhile metrics which allows opens the door for sub-optimal outcomes to be achieved if the metrics aren't well thought out. GHCCs are thus arguably more scalable and efficient.  
+[^2]: For the record, Palacios actually called it "State Human Capital Contracts"
+[^3]: It is beyond the scope of this post to compare those models, but in short: Government Loans differ to GISAs because government, not the market, decides who to funds so it lacks the market mechanisms. Social Impact Bonds differ to GISAs in that the repayments are related to more abstract measures than taxable income. For example, repayment may be awarded based on how many people find employment by X date. Since repayment is not tied into actual tax revenue collected, government needs to be careful not to award more Social Impact Bonds than what it can afford to pay. This limits the amount of potential investment in can accept. It also means that government has to interpret what it thinks are worthwhile metrics which opens the door for sub-optimal outcomes to be achieved if the metrics aren't well thought-out. GISAs are thus arguably more scalable and efficient.  
 
 
 
