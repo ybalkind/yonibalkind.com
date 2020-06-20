@@ -4,12 +4,12 @@ The idea comes from a book called [Investing In Human Capital](https://www.amazo
 
 However, one of the ideas proposed by Palacios is a bit different, in that the student does not have to pay back anything at all. Instead, the financier is paid back by government directly from the tax revenue collected from that student down the line. This particular model covers only a few pages of the book, but it's an idea I keep coming back to. It is elegant, maybe a bit radical, and it seems to have completely fallen through the cracks of history. I cannot find any discussion or reference to this model outside of the book (if anyone has seen this idea elsewhere please correct me on this point). I feel it deserves to see the light of day, hence this post. 
 
-## Government-backed Income Share Agreements
+## Government Income Share Agreements
 
 The basic idea:
 :   Government invites private investors to finance the education of tertiary learners. In exchange, government commits to repaying the investor a pre-agreed share of the future tax revenue which it (government) ends up collecting from that learner (if and when the learner enters the working economy and pays income tax). [^1]
 
-Every student funded gives rise to a Government-backed Income Share Agreement (or "GISA") [^2] between the financier and government. 
+Every student funded gives rise to a Government Income Share Agreement (or "GISA") [^2] between the financier and government. 
 
 Let's explore some of the details:
 
@@ -77,7 +77,7 @@ I've only spoken about tertiary education so far, but there is only so much you 
 
 As I mentioned earlier, Miguel Palacios put forward GISAs as a means to fund normal school education. The reason I focused on higher education is that it makes it much easier to test the model and establish its effectiveness, because there are only a few years between investment and job. But in theory, the GISA model could gradually be expanded to lower levels of school, and that is where it could really unlock much bigger benefits for society. 
 
-We know that investing in education is a vital building block for a more prosperous and equitable society. But we are constrained by available funds and by the complexity of delivering education equitably to the masses. In countries like South Africa, there are little signs of improvement in educational outcomes. Real reform needs to at least be considered. Government-backed Income Share Agreement put forward one such vision. 
+We know that investing in education is a vital building block for a more prosperous and equitable society. But we are constrained by available funds and by the complexity of delivering education equitably to the masses. In countries like South Africa, there are little signs of improvement in educational outcomes. Real reform needs to at least be considered. Government Income Share Agreement put forward one such vision. 
 
 ## Acknowledgements
 Thank you to [Miguel Palacios](http://palaciosfinance.com/) not only for originating the idea of Government Human Capital Contracts, but also for graciously giving of his time to discuss his ideas with me. And to Gilbert Pooley (co-founder of [Umuzi](https://www.umuzi.org/)) for reading my early draft and helping to stress-test the idea. 
