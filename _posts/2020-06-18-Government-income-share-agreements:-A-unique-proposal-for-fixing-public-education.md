@@ -7,9 +7,7 @@ However, one of the ideas proposed by Palacios is a bit different, in that the s
 ## Government Income Share Agreements
 
 The basic idea:
-:   Government invites private investors to finance the education of tertiary learners. In exchange, government commits to repaying the investor a pre-agreed share of the future tax revenue which it (government) ends up collecting from that learner (if and when the learner enters the working economy and pays income tax). [^1]
-
-Every student funded gives rise to a Government Income Share Agreement (or "GISA") [^2] between the financier and government. 
+:   Government invites private investors to finance the education of tertiary learners[^1]. In exchange, government commits to repaying the investor a pre-agreed share of the future tax revenue which it (government) ends up collecting from that learner (if and when the learner enters the working economy and pays income tax). Every student funded gives rise to a Government Income Share Agreement (or "GISA") [^2] between the financier and government. 
 
 Let's explore some of the details:
 
