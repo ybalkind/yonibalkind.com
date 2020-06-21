@@ -27,7 +27,7 @@ The benefit of this model is twofold; Firstly, it provides new sources of fundin
 
 The return on investment for the financier is contingent on the eventual earnings of the learner. Investors would therefore want to fund the best and brightest students with the best career prospects. 
 
-To some extent this is fine. Normal government models for tertiary funding also take into account how well a student did in school before the student is funded. But these government models have various mechanisms to ensure a measure of equality. Such mechanisms would not to be enforced in a GISA system as private investors might otherwise prioritise students from privileged backgrounds who are deemed more likely to succeed and thus less risky an investment. 
+To some extent this is fine. Normal government models for tertiary funding also take into account how well a student did in school before the student is funded. But these government models have various mechanisms to ensure a measure of equality. Such mechanisms would need to be enforced in a GISA system as private investors might otherwise prioritise students from privileged backgrounds who are deemed more likely to succeed and thus less risky an investment. 
 
 Fortunately, government has little incentive in taking on funding for privileged learners who already have good career prospects - why give away future tax revenue when that revenue is already pretty much guaranteed? 
 
