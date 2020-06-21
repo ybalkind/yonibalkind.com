@@ -7,7 +7,7 @@ However, one of the ideas proposed by Palacios is a bit different, in that the s
 ## Government Income Share Agreements
 
 The basic idea:
-:   Government invites private investors to finance the education of tertiary learners[^1]. In exchange, government commits to repaying the investor a pre-agreed share of the future tax revenue which it (government) ends up collecting from that learner (if and when the learner enters the working economy and pays income tax). Every student funded gives rise to a Government Income Share Agreement (or "GISA") [^2] between the financier and government. 
+:   Government invites private investors to finance the education of tertiary learners.[^1] In exchange, government commits to repaying the investor a pre-agreed share of the future tax revenue which it (government) ends up collecting from that learner (if and when the learner enters the working economy). Every student funded gives rise to a Government Income Share Agreement (or "GISA")[^2] between the financier and government. 
 
 Let's explore some of the details:
 
@@ -15,7 +15,7 @@ Any student that receives funding from this initiative is not out-of-pocket in a
 
 The funders do not choose specific individuals to fund. Instead they fund all students in a specific course or college (I use the word "college" to refer to any type of institution that provides tertiary education). Funders are essentially betting on certain courses to produce successful learners. If their bet is successful, the government wins, because the government has a new batch of taxpayers. As such, the government commits to sharing some of that upside with the investor in order to reward the bet.
 
-As with all of the finance models discussed by Palacios, the repayment is related to income earned. The amount owed by government is a specified percentage of the tax revenue or taxable income of the student. If the country has a well-functioning tax system, then the investor can be confident that the earnings of the student will be tracked and repaid. The more the students ends up earning the higher the repayments (however the total repayments can be capped at a certain amount). 
+The amount owed by government is a specified percentage of the taxable income of the student. If the country has a well-functioning tax system, then the investor can be confident that the earnings of the student will be tracked and repaid. The more the students ends up earning the higher the repayments (however the total repayments can be capped at a certain amount). 
 
 As a result, the government gets to keep less income tax from the learner. But, perhaps, had the learner not benefited from the funding, he or she would be paying little or no income tax at all.
 
@@ -25,9 +25,7 @@ The benefit of this model is twofold; Firstly, it provides new sources of fundin
 
 ## How do GISA's deliver education to those who most need it?
 
-The return on investment for the financier is contingent on the eventual earnings of the learner. Investors would therefore want to fund the best and brightest students with the best career prospects. 
-
-To some extent this is fine. Normal government models for tertiary funding also take into account how well a student did in school before the student is funded. But these government models have various mechanisms to ensure a measure of equality. Such mechanisms would need to be enforced in a GISA system as private investors might otherwise prioritise students from privileged backgrounds who are deemed more likely to succeed and thus less risky an investment. 
+Investors would therefore want to fund the best and brightest students with the best career prospects. To some extent this is fine. Normal government models for tertiary funding also take into account how well a student did in school before the student is funded. But these government models have various mechanisms to ensure a measure of equality. Such mechanisms would also need to be enforced in a GISA system as private investors might otherwise prioritise students from privileged backgrounds who are deemed more likely to succeed and thus less risky an investment. 
 
 Fortunately, government has little incentive in taking on funding for privileged learners who already have good career prospects - why give away future tax revenue when that revenue is already pretty much guaranteed? 
 
@@ -55,9 +53,7 @@ Delivering a good education to millions of people is a massively onerous task fo
 
 The South Africa government has recently committed to providing universal free higher education. But how efficient will it be in ensuring that the right courses and colleges are funded? One suspects that the amount of wastage and inefficiency will be massive. I do not think many people in South Africa believe that this measure will help deal with educational inequality. 
 
-I wonder if GISA could change the game because it passes on the complexity to the market. It introduces a self-adjusting mechanism that naturally optimises to deliver better education outcomes. Investors are only going to fund colleges that are outcome driven and where the skills being taught are in-demand.  
-
-GISAs increase the likelihood of education success because investors are obliged to make good decisions about where to put their capital. They must choose whether to fund blue-collar skills or white-collar skills, short-courses, or long degrees. They have to get these choices right or they do not get paid. This ensures that funds flow efficiently to where outcomes are expected to be successful. 
+I wonder if a GISA type program would be more effective because it passes on the complexity to the market. It introduces a self-adjusting mechanism that naturally optimises to deliver better education outcomes. GISAs increase the likelihood of education success because investors are obliged to make good decisions about where to put their capital. They must choose whether to fund blue-collar skills or white-collar skills, short-courses, or long degrees. They have to get these choices right or they do not get paid. This ensures that funds flow efficiently to where good educationb outcomes are expected. 
 
 Why should investors have better knowledge than government? Because experience shows that this is just how the world works. Investors who make bad predictions go out of business. Investors who make good predictions succeed and have more capital to invest. The market, for all its flaws, is better than government at creating value out of complexity. 
 
@@ -67,7 +63,7 @@ The value of market forces is that they could help accelerate the evolution of t
 
 ## Conclusion 
 
-Despite my enthusiasm for GISAs, I'm aware that the idea contains many open questions. How do you get government buy-in? What percentage of tax revenue per learner is paid back to the funder and for how many years do we repay? What is the repayment cap? Should we allow funding of traditional colleges only, or also allow funding for alternative education paths such as coding bootcamps and online courses? How do you ensure you're not giving away too much tax revenue? How do you track the students and their tax payments and ensure repayment to investors? 
+Despite my enthusiasm for GISAs, I'm aware that the idea contains many open questions. How do you get government buy-in? What percentage of tax revenue per learner is paid back to the funder and for how many years do we repay? What is the repayment cap? Should we allow funding of traditional colleges only, or also allow funding for alternative education paths such as coding bootcamps and online courses? How do you ensure you're not giving away too much tax revenue? How do you track the students and their tax payments and ensure repayment to investors? How do you achieve good results in higher education if the schooling is bad at lower levels? 
 
 It is beyond the scope of this article to cover these in detail. If this gets any attention then I will certainly look to explore the topic in much more depth. But in the interim I recommend reading the source of the idea - [Investing In Human Capital](https://www.amazon.com/Investing-Human-Capital-Markets-Approach/dp/0521828406) by Miguel Palacios. It addresses most of the above questions and more.
 
@@ -78,7 +74,8 @@ As I mentioned earlier, Miguel Palacios put forward GISAs as a means to fund nor
 We know that investing in education is a vital building block for a more prosperous and equitable society. But we are constrained by available funds and by the complexity of delivering education equitably to the masses. In countries like South Africa, there are little signs of improvement in educational outcomes. Real reform needs to at least be considered. Government Income Share Agreement put forward one such vision. 
 
 ## Acknowledgements
-Thank you to [Miguel Palacios](http://palaciosfinance.com/) not only for originating the idea of Government Human Capital Contracts, but also for graciously giving of his time to discuss his ideas with me. And to Gilbert Pooley (co-founder of [Umuzi](https://www.umuzi.org/)) for reading my early draft and helping to stress-test the idea. 
+Thank you to [Miguel Palacios](http://palaciosfinance.com/) not only for originating the idea of Government Human Capital Contracts, but also for graciously giving of his time to discuss his ideas with me. 
+And to Gilbert Pooley (co-founder of [Umuzi](https://www.umuzi.org/)) for reading my early draft and helping to stress-test the idea. 
 
 ### Footnotes
 [^1]: The original idea presented by Palacios looks at ways to fund normal (primary and high) schooling, but for reasons that will become clear later, I'm going to discuss its application specifically to higher (tertiary) education) 
