@@ -1,5 +1,4 @@
 ---
-title: Government Income Share Agreements: A Unique Proposal For Fixing Public Education
 redirect_from:
   - /A-unique-proposal-for-fixing-public-education/
 ---
