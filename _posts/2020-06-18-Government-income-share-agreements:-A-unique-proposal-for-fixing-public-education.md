@@ -3,6 +3,7 @@ title: Government Income Share Agreements: A Unique Proposal For Fixing Public E
 redirect_from:
   - /A-unique-proposal-for-fixing-public-education/
 ---
+
 I recently stumbled on an interesting and novel proposal for how governments can better fund mass education, while making access more equitable, and promoting better education outcomes. 
 
 The idea comes from a book called [Investing In Human Capital](https://www.amazon.com/Investing-Human-Capital-Markets-Approach/dp/0521828406) (published in 2004) by economist Miguel Palacios. The book is notable for helping to develop alternative models of student finance, such as income contingent loans and income share agreements. These models are now increasingly being applied by universities, coding bootcamps, and by alternative student finance companies. A common theme of these models is that the amount paid back by the student is dependent on how much the student earns after graduating. 
