@@ -1,6 +1,6 @@
 ---
 redirect_from:
-  - /_posts/A-unique-proposal-for-fixing-public-education/
+  - /_posts/A-unique-proposal-for-fixing-public-education
 ---
 
 I recently stumbled on an interesting and novel proposal for how governments can better fund mass education, while making access more equitable, and promoting better education outcomes. 
