@@ -79,6 +79,9 @@ As I mentioned earlier, Miguel Palacios put forward GISAs as a means to fund nor
 
 We know that investing in education is a vital building block for a more prosperous and equitable society. But we are constrained by available funds and by the complexity of delivering education equitably to the masses. In countries like South Africa, there are little signs of improvement in educational outcomes. Real reform needs to at least be considered. Government Income Share Agreement put forward one such vision. 
 
+## Postscript
+After writing the above I found a different but related proposal for US college funding [How to Fix Federal Student Aid with Income Share Agreements](https://www.realcleareducation.com/articles/2021/06/25/how_to_fix_federal_student_aid_with_income_share_agreements_110600.html).
+
 ## Acknowledgements
 Thank you to [Miguel Palacios](http://palaciosfinance.com/) not only for originating the idea of Government Human Capital Contracts, but also for graciously giving of his time to discuss his ideas with me. 
 And to Gilbert Pooley (co-founder of [Umuzi](https://www.umuzi.org/)) for reading my early draft and helping to stress-test the idea. 
