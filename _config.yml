@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Yoni Balkind"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : Independent Product Manager and Product Marketing Consultant # site tagline that appears below site title in masthead
 name                     : "Yoni Balkind"
 description              : "Sharing my notes - Thinking out loud - Learning in public - Working with the garage door open"
 url                      : "https://yonibalkind.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
