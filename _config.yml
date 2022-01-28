@@ -20,7 +20,7 @@ title                    : "Yoni Balkind"
 title_separator          : "-"
 subtitle                 : Helping startup founders to plan, build, and launch a winning product # site tagline that appears below site title in masthead
 name                     : "Yoni Balkind"
-description              : "Sharing my notes - Thinking out loud - Learning in public - Working with the garage door open"
+description              : "Independant Product Manager and Product Marketing consultant to early stage startups"
 url                      : "https://yonibalkind.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ybalkind/Yoni-Jeykll-Blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
