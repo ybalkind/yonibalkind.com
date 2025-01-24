@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Yoni Balkind"
-  avatar           : "https://imgur.com/undefined" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://imgur.com/a/uil9cTl" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
   location         : "Johannesburg, SA"
   email            : "ybalkind@gmail.com"
